@@ -4,10 +4,10 @@
 This repository contains all analytic code used in the study *“Integrating Explainable Machine Learning to Predict and Interpret Factors Associated with Self-Reported Depression among Adults in Tennessee, United States”.* The materials are provided to ensure full transparency, reproducibility, and methodological clarity.
 The repository includes two primary analytic components:
 
-**1.	STATA Epidemiologic Analysis (Epidemiologic_Analysis_BRFSS_Selfreported_Depression.do file)**
+**1.	STATA Epidemiologic Analysis *(Epidemiologic_Analysis_BRFSS_Selfreported_Depression.do file)***
 The STATA do-file contains all traditional epidemiological analyses, including survey design specification using BRFSS sampling weights, strata, and primary sampling units. Data cleaning, preprocessing, missing data imputation, descriptive statistics, weighted prevalence estimates, bivariate analyses, and survey-weighted logistic regression models with backward selection are fully documented in this file.
 
-**2.	Python Machine Learning Analysis (MachineLearning_Depression_Analysis_Reviewers_Github.ipynb notebook)**
+**2.	Python Machine Learning Analysis *(MachineLearning_Depression_Analysis_Reviewers_Github.ipynb notebook)***
 The Jupyter Notebook implements the complete machine learning pipeline used in the study. This includes data preprocessing, categorical encoding, nested feature selection using recursive feature elimination (RFE), SMOTE oversampling applied strictly within training folds, hyperparameter tuning via stratified cross-validation, and final model evaluation on an independent hold-out test set. The notebook also includes model interpretation using SHapley Additive exPlanations (SHAP), with both aggregated feature importance and individual-level visualizations.
 This repository is intended for researchers interested in reproducible epidemiologic and machine learning applications in population mental health research.
 
