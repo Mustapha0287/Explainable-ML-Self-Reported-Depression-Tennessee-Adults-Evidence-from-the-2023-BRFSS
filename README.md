@@ -1,4 +1,4 @@
-**Integrating Explainable Machine Learning to Predict and Interpret Self-Reported Depression among Adults in Tennessee, United States**
+**Integrating Epidemiologic Modeling and Explainable Machine Learning to Predict and Identify Factors Associated with Self-Reported Depression among Adults in Tennessee, United States**
 
 **Project Overview**
 This repository contains all analytic code used in the study *“Integrating Explainable Machine Learning to Predict and Interpret Factors Associated with Self-Reported Depression among Adults in Tennessee, United States”.* The materials are provided to ensure full transparency, reproducibility, and methodological clarity.
