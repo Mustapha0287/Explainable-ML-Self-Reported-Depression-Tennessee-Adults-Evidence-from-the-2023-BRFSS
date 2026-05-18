@@ -1,7 +1,7 @@
 **Integrating Epidemiologic Modeling and Explainable Machine Learning to Predict and Identify Factors Associated with Self-Reported Depression among Adults in Tennessee, United States**
 
 **Project Overview**
-This repository contains all analytic code used in the study *“Integrating Explainable Machine Learning to Predict and Interpret Factors Associated with Self-Reported Depression among Adults in Tennessee, United States”.* The materials are provided to ensure full transparency, reproducibility, and methodological clarity.
+This repository contains all analytic code used in the study *“Integrating Epidemiologic Modeling and Explainable Machine Learning to Predict and Identify Factors Associated with Self-Reported Depression among Adults in Tennessee, United States”.* The materials are provided to ensure full transparency, reproducibility, and methodological clarity.
 The repository includes two primary analytic components:
 
 **1.	STATA Epidemiologic Analysis file *(Epidemiologic_Analysis_BRFSS_Selfreported_Depression.do)***
